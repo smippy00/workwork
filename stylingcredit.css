@@ -1,0 +1,32 @@
+h1 {
+    color:rgb(79, 121, 38);
+    font-size: large;
+    font-family: Arial;
+    text-align: center;
+    font-size: 50px;
+}
+p {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+.button {
+    width: 100%;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: .5em 2em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #FDBE33 #000 #D77206;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
+  transition: 0.2s;
+}
+h2 {
+text-align: left;
+font-size: 15px;
+}
